@@ -33,7 +33,6 @@ fi
 #
 # use variable TITLE for show name title window whiptail
 # use variable MSGBOX for show text in window whiptail
-# use variable PERINTAH for run command after MSG_YESNO
 #
 
 #checking dependency
