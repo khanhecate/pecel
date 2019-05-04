@@ -48,9 +48,9 @@ MSGBOX="Welcome to Pecel shell sciprt
 Pecel is shell sciprt for Compressing folder if you lazy to type Compressing command " && MSG_CAUTION
 TITLE="OPTION"
 MSGBOX="Pecel have 3 option :
-- fast  -> not reduce file size but it fast
-- high  -> reduce a few size file ,speed ? normal
-- ultra -> max quiality of Compressing , speed ? slow" && MSG_CAUTION
+- fast    -> not reduce file size but it fast
+- normal  -> reduce a few size file ,speed ? normal
+- high    -> max quiality of Compressing , speed ? slow" && MSG_CAUTION
 #input folder
 while true
 do
